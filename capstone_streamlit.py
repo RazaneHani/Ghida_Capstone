@@ -4,7 +4,7 @@
 import streamlit as st
 
 import pandas as pd 
-
+from streamlit_option_menu import option_menu
 
 from sklearn.utils import estimator_html_repr
 
