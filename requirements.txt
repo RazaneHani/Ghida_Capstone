@@ -27,6 +27,5 @@ streamlit_option_menu
 
 plotly.express 
 numpy 
-plotly.figure_factory 
 chart_studio.plotly 
 plotly.offline 
