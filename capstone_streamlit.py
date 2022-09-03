@@ -21,7 +21,7 @@ st.set_page_config(layout="wide")
 st.title('Analysis of Jobs and Skills')
 
 # dataset
-df = pd.read_csv(r"C:\Users\Ncs\Downloads\bahrain_new_1.csv", encoding='latin1')
+df = pd.read_csv("bahrain_new_1.csv", encoding='latin1')
 
 st.markdown("""
 <style>
