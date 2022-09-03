@@ -1,7 +1,3 @@
-
-
-html5lib1
-
 matplotlib
 matplotlib-inline
 
